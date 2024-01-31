@@ -6,10 +6,9 @@
 ### 3- cat
 ### 4- gcc
 ### 5- vim
-### 6- ./
-### 7- rm
-### 8- gedit
-### 9- mkdir
+### 6- rm
+### 7- gedit
+### 8- mkdir
 
 
 ## output of this code:
